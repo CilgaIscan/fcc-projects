@@ -27,3 +27,12 @@ Source code and demo are available at [here](https://codepen.io/cilgaiscan/pen/j
 Product Landing Pages are generally build to show new products or give details about a product. In this projec, I made a landing page with dummy info about Boston Dynamic's Spot.
 
 Source code and demo are available at [here](https://codepen.io/cilgaiscan/pen/WNQdPbM).
+
+---
+**Project IV:** Technical Documentation Page
+Technical Documentations are generally consist of information related to a topic. In this project, I made a technical documentation page about Lorem Ipsum's history and more. 
+
+Source code and demo are available at [here](https://codepen.io/cilgaiscan/pen/mdVGyEa)
+
+---
+Also, this projects source codes are available at [this Github repository](https://github.com/CilgaIscan/FCC-RWD-Projects)
